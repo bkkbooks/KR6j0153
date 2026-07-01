@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0153/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛頂尊勝陀羅尼
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F27/F27n1062.xml
+    old_id: F27n1062
+hash: sha256:351b627d1e97901e6fa5af7534b92796ca81c1eca4ee49d2e9e363a6a04274bd
