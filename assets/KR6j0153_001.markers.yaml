@@ -5,7 +5,6 @@ markers:
   body:
   - {type: line-break, offset: 0, content: '', id: KR6j0153_F_001-0499a02, ed: F, 'n': 0499a02}
   - {type: xml-element, offset: 0, content: '', id: KR6j0153_F_001-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': translator}}
-  - {type: substitution, offset: 10, original: 陁, replacement: 陀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3229}}
   - {type: indent, offset: 16, content: 　, id: KR6j0153_F_001-bkkind1}
   - {type: indent, offset: 18, content: 　, id: KR6j0153_F_001-bkkind2}
   - {type: xml-element, offset: 19, content: '', id: KR6j0153_F_001-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': translator}}
@@ -130,7 +129,6 @@ markers:
   - {type: xml-element, offset: 231, content: '', id: KR6j0153_F_001-bkkxmlele77, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 234, content: '', id: KR6j0153_F_001-bkkxmlele78, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 234, content: 　, id: KR6j0153_F_001-bkkind28}
-  - {type: substitution, offset: 234, original: 鄔, replacement: 塢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3780}}
   - {type: xml-element, offset: 237, content: '', id: KR6j0153_F_001-bkkxmlele79, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 239, content: '', id: KR6j0153_F_001-bkkxmlele80, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 240, content: '', id: KR6j0153_F_001-bkkxmlele81, name: note, role: open, attrs: {place: inline}}
@@ -542,4 +540,4 @@ markers:
   - {type: xml-element, offset: 1012, content: '', id: pF27p0499a0301_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pF27p0499a0301}}
   - {type: line-break, offset: 1012, content: '', id: KR6j0153_F_001-0499b24, ed: F, 'n': 0499b24}
   back: []
-hash: sha256:024dc905433242982ad42657c2b312488c53fbf81f403b731704f0d224cc90a8
+hash: sha256:46c424526136fafea02525c7938591bbe9f851087ae298d41749d044768b6dfb

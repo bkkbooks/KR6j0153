@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0153_000.yaml, hash: 'sha256:351b627d1e97901e6fa5af7534b92796ca81c1eca4ee49d2e9e363a6a04274bd'}
-  - {seq: 1, filename: KR6j0153_001.yaml, hash: 'sha256:deff7a3ff150b9f9e1df02be9463c493d0f6471921985d7841f9fa1547ed1bf6'}
+  - {seq: 1, filename: KR6j0153_001.yaml, hash: 'sha256:1c40c3f55ed212b32fbee40af3f3dd113dc5bb61635ff0b238ed1704ec81cca3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0153_001.markers.yaml, hash: 'sha256:024dc905433242982ad42657c2b312488c53fbf81f403b731704f0d224cc90a8'}
+  - {seq: 0, role: markers, filename: assets/KR6j0153_000.markers.yaml, hash: 'sha256:7adc3088641763707687d7b42bcd0206ff5f89dff71085cc1a6250a0d572c55f'}
+  - {seq: 1, role: markers, filename: assets/KR6j0153_001.markers.yaml, hash: 'sha256:46c424526136fafea02525c7938591bbe9f851087ae298d41749d044768b6dfb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 佛頂尊勝陁羅尼
   type: juan
   level: 1
-hash: sha256:f2340e5473bc977f46e2a061ce6d59c6a876e3da2de2625eea13ef5995aa3ff4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3aa667b6276412cda0a88746d00d7f82dd18d8df19d7140589d5f7c44c8dd4ad
 editions:
 - short: F
