@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0153/v1
 canonical_location: https://kanripo.org/bkk/KR6j0153/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛頂尊勝陀羅尼
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0153_000.yaml, hash: 'sha256:351b627d1e97901e6fa5af7534b92796ca81c1eca4ee49d2e9e363a6a04274bd'}
-  - {seq: 1, filename: KR6j0153_001.yaml, hash: 'sha256:1c40c3f55ed212b32fbee40af3f3dd113dc5bb61635ff0b238ed1704ec81cca3'}
+  - {seq: 1, filename: KR6j0153_001.yaml, hash: 'sha256:bed0a2ae5fa69d2ab5769eac655415e3b89bde6e147912b881f74722906fdb67'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0153_000.markers.yaml, hash: 'sha256:7adc3088641763707687d7b42bcd0206ff5f89dff71085cc1a6250a0d572c55f'}
-  - {seq: 1, role: markers, filename: assets/KR6j0153_001.markers.yaml, hash: 'sha256:46c424526136fafea02525c7938591bbe9f851087ae298d41749d044768b6dfb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0153_001.markers.yaml, hash: 'sha256:4803bda26bd761a1b400166965141c071a03fb0742bbc107b6aa2ea840ba836a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 佛頂尊勝陁羅尼
   type: juan
   level: 1
-hash: sha256:3aa667b6276412cda0a88746d00d7f82dd18d8df19d7140589d5f7c44c8dd4ad
+hash: sha256:d6c1d882df8105c41da0e72f2ad88d79d080cab67c937495f22e679187d0bc53
 editions:
 - short: F
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
